@@ -1,5 +1,6 @@
 # Ex.06 Book Front Cover Page Design
-# Date:15-04-2025
+# Date:21-04-2025
+# Name : BEEDA VENKATA REVANTH KUMAR
 # AIM:
 To design a book front cover page using HTML and CSS.
 
